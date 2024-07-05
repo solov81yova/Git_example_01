@@ -4,8 +4,14 @@
     margin: 30px;
 }
 #house1 {
-    background-color: aqua;
+    background-color: gray;
 }
 #shop {
-    background-color: bisque;
+    background-color: gray;
+}
+
+.window {
+    height: 50px;
+    width: 50px;
+    background-color: aqua;
 }
