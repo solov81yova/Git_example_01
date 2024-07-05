@@ -1,0 +1,11 @@
+.building {
+    height: 150px;
+    width: 150px;
+    margin: 30px;
+}
+#house1 {
+    background-color: aqua;
+}
+#shop {
+    background-color: bisque;
+}
